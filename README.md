@@ -47,10 +47,3 @@ Deep-Learning-Methods-for-Healthcare/
 Upon successful completion, a **Coursera Certificate** is awarded, validating expertise in applying deep learning to healthcare problems.
 
 ---
-
-## 📅 Provider
-
-**Offered by:** Coursera
-
-**Level:** Intermediate–Advanced
----
