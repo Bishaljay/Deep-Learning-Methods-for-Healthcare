@@ -51,5 +51,6 @@ Upon successful completion, a **Coursera Certificate** is awarded, validating ex
 ## 📅 Provider
 
 **Offered by:** Coursera
+
 **Level:** Intermediate–Advanced
 ---
